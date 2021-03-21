@@ -24,6 +24,9 @@
 #include <cstdint>
 #include <cstring>
 
+//didn't build : added this line and it worked. Thanks for your hard work, gf seems to be exactly what I was looking for.
+#include <string>
+
 #include <array>
 #include <map>
 #include <set>
